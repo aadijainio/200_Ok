@@ -39,7 +39,7 @@
 }
 
 .game-img {
-  width: 80%;
+  width: 100%;
   height: auto;
   border-radius: 4px;
   margin-bottom: 10px;
@@ -56,10 +56,10 @@
   color: #c0c0c0;
 }
 
-.game-price {
+.game-size {
   font-weight: bold;
   margin-bottom: 10px;
-  color: #c0c0c0;
+  color: #ffffff;
 }
 
 .read-more-button {
@@ -74,5 +74,5 @@
 }
 
 .read-more-button:hover {
-  background-color: #45a049;
+  background-color: rgb(103, 196, 94);
 }
