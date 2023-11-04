@@ -6,14 +6,22 @@ const gamesData = [
     price: "$49.99",
     link: "#",
   },
-  {
-    name: "Game 2",
-    description:
-      "Description for Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguis r Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguis erhgushuihbuseigbhseruigbuserijbgusjreigbuserrsuiharutighauierghuiajbrguijabgujbargeujbaerujgburea\nbguaebrgujbarujebgujabeguijparbuipsgbauergbuaerurjjjrwegiuaghvuiahguirahgidashgkvhuiadhguasdhguhaughruighreih ",
-    image: "assets/img/pc.jpg",
-    price: "$39.99",
-    link: "#",
-  },
+  // {
+  //   name: "Game 2",
+  //   description:
+  //     "Description for Game 2.jjjjghufdshguijsdhguiserhguis r Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguis erhgushuihbuseigbhseruigbuserijbgusjreigbuserrsuiharutighauierghuiajbrguijabgujbargeujbaerujgburea\nbguaebrgujbarujebgujabeguijparbuipsgbauergbuaerurjjjrwegiuaghvuiahguirahgidashgkvhuiadhguasdhguhaughruighreih ",
+  //   image: "assets/img/pc.jpg",
+  //   price: "$39.99",
+  //   link: "#",
+  // },
+  // {
+  //   name: "Game 2",
+  //   description:
+  //     "Description for Game 2.jjjjghufdshguijsdhguiserhguis r Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguis erhgushuihbuseigbhseruigbuserijbgusjreigbuserrsuiharutighauierghuiajbrguijabgujbargeujbaerujgburea\nbguaebrgujbarujebgujabeguijparbuipsgbauergbuaerurjjjrwegiuaghvuiahguirahgidashgkvhuiadhguasdhguhaughruighreih ",
+  //   image: "assets/img/pc.jpg",
+  //   price: "$39.99",
+  //   link: "#",
+  // },
 ];
 
 function createGameCard(game) {
