@@ -1,27 +1,11 @@
 const gamesData = [
   {
     name: "ToonTanks",
-    description: "Get ready for intense tank warfare in our action-packed game! Take control of a mighty tank and strategically eliminate unyielding orange turret tanks. Each foe requires two precise shots, putting your skills to the test. Can you conquer the battlefield and emerge as the ultimate tank commander?",
+    description: "Get ready for intense tank warfare in our action-packed game! Take control of a mighty tank and strategically eliminate unyielding orange turret tanks. Each foe requires two precise shots, putting your skills to the test. Can you conquer the battlefield and emerge as the ultimate tank commander? Controls: \n W A S D - movements \n Left mouse click - Fire \n Alt + f4 - Restart",
     image: "assets/img/ToonTanksTB.png",
     size: "321 MB",
     link: "https://mega.nz/folder/hP9RmYKa#Ltt0uy8KgZhBrJK0HjEm1Q",
   },
-  // {
-  //   name: "Game 2",
-  //   description:
-  //     "Description for Game 2.jjjjghufdshguijsdhguiserhguis r Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguis erhgushuihbuseigbhseruigbuserijbgusjreigbuserrsuiharutighauierghuiajbrguijabgujbargeujbaerujgburea\nbguaebrgujbarujebgujabeguijparbuipsgbauergbuaerurjjjrwegiuaghvuiahguirahgidashgkvhuiadhguasdhguhaughruighreih ",
-  //   image: "assets/img/pc.jpg",
-  //   size: "$39.99",
-  //   link: "#",
-  // },
-  // {
-  //   name: "Game 2",
-  //   description:
-  //     "Description for Game 2.jjjjghufdshguijsdhguiserhguis r Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguisr Game 2. ifhodjsfgvpa;reuogherupiaghuiaerghurishaguiaheugiahs\ndjjjjjjjjjjjjjjjjjghufdshguijsdhguiserhguis erhgushuihbuseigbhseruigbuserijbgusjreigbuserrsuiharutighauierghuiajbrguijabgujbargeujbaerujgburea\nbguaebrgujbarujebgujabeguijparbuipsgbauergbuaerurjjjrwegiuaghvuiahguirahgidashgkvhuiadhguasdhguhaughruighreih ",
-  //   image: "assets/img/pc.jpg",
-  //   size: "$39.99",
-  //   link: "#",
-  // },
 ];
 
 function createGameCard(game) {
